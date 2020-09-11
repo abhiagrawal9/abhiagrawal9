@@ -1,9 +1,9 @@
 <h1 align="center"> Hello, I'm Abhishek Agrawal 👋 </h1>
 
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to work on cool web development projects
-- 💬 Ask me about Web dev related Stuff
-- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+🌱 I’m currently learning Angular
+👯 I’m looking to work on cool web development projects
+💬 Ask me about Web dev related Stuff
+⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## Some Statistics About Me
 
