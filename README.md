@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Abhishek Agrawal 👋 </h1>
+<h1> Hello, I'm Abhishek Agrawal 👋 </h1>
 
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to work on cool web development projects
