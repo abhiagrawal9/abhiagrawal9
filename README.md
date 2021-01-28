@@ -1,5 +1,6 @@
-<h1> Hello, I'm Abhishek Agrawal 👋 </h1>
+<h1> Hi there 👋 </h1>
 
+- 🤓 I have a great interest in acquiring and improving skills.
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to work on cool web development projects
 - 💬 Ask me about Web dev related Stuff
