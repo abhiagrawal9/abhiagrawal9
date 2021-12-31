@@ -1,8 +1,6 @@
 <h1> Hi there 👋 </h1>
 
 - 🤓 I have a great interest in acquiring and improving skills.
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to work on cool web development projects
 - 💬 Ask me about Web dev related Stuff
 - ⚡ Fun fact: I Love ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ❤️
 
