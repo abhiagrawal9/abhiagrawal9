@@ -19,7 +19,7 @@ MAMBA FOREVER!
 
 ## Some Statistics About Me
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhiagrawal9&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhiagrawal9&show_icons=true&theme=dracula)<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhiagrawal9/) [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/abhiagrawal27) [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@abhiagrawal9)
 
