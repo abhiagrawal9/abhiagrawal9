@@ -13,10 +13,6 @@ Web | PWA | React | Angular | Material | Node.js | Firebase | AWS | TypeScript |
 
 While I enjoy all aspects of my job, I like to spend time with friends on weekends & watch movies and series. Favorites are 'The Dark Knight' & 'Friends'. Also, I love BIKES!
 
-&
-
-MAMBA FOREVER!
-
 ## Some Statistics About Me
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhiagrawal9&show_icons=true&theme=dracula)<br>
