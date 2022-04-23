@@ -13,7 +13,7 @@ Web | PWA | React | Angular | Vue | Material | Node.js | Firebase | AWS | TypeSc
 
 While I enjoy all aspects of my job, I like to spend time with friends on weekends & watch movies and series. Favorites are 'The Dark Knight' & 'Friends'. Also, I love BIKES!
 
-## Some Statistics About Me
+## Statistics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiagrawal9" alt="abhiagrawal9" /> </p>
 
