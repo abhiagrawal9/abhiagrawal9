@@ -1,8 +1,11 @@
 # Hi there 👋
 
 ⭐️ I'm Abhishek Agrawal.
+
 🤓 I have a great interest in acquiring and improving skills.
+
 💬 Ask me about ![React](http://img.shields.io/badge/React-202328?style=flat-square&logo=react&logoColor=60DAFA) ![Angular](http://img.shields.io/badge/Angular-105BB5?style=flat-square&logo=angular&logoColor=D7022F) ![Vue](http://img.shields.io/badge/Vue-33465B?style=flat-square&logo=vue.js&logoColor=3FB27F)
+
 ⚡ Fun fact: I Love ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## About Me
