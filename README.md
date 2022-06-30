@@ -22,8 +22,6 @@ While I enjoy all aspects of my job, I like to spend time with friends on weeken
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiagrawal9&layout=compact&theme=tokyonight)](https://github.com/abhiagrawal9)
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhiagrawal9&show_icons=true&theme=dracula)
-
 ## Connect
 
 [![Google](https://img.shields.io/badge/google-white.svg?style=for-the-badge&logo=google)](https://g.dev/abhiagrawal9) [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhiagrawal9/) [![Leetcode](https://img.shields.io/badge/leetcode-grey.svg?style=for-the-badge&logo=leetcode)](https://leetcode.com/abhiagrawal9/) [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@abhiagrawal9) [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/abhiagrawal27) [![Instagram](https://img.shields.io/badge/instagram-pink.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/abhishek.agrawal_9/) [![Facebook](https://img.shields.io/badge/facebook-lightblue.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/abhiagrawal27/) [![Website](https://img.shields.io/badge/website-orange.svg?style=for-the-badge&logo=website)](https://agrawalabhishek.netlify.app) [![Peerlist](https://img.shields.io/badge/peerlist-green.svg?style=for-the-badge&logo=peerlist)](https://peerlist.io/abhiagrawal9)
