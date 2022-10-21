@@ -10,7 +10,7 @@
 
 ## About Me
 
-A highly motivated engineer who graduated from the University Of Udaipur(Rajasthan) in Electronics & Communication. I have excellent programming skills as well as experience with agile development. I possess impeccable organizational and communication skills, listening to others, and working in a team as a leader or member.
+A highly motivated engineer graduated from the University Of Udaipur(Rajasthan) in Electronics & Communication. I have excellent programming skills as well as experience with agile development. I possess impeccable organizational and communication skills, listening to others, and working in a team as a leader or member.
 
 While I enjoy all aspects of my job, I like to spend time with friends on weekends & watch movies and series. Favorites are 'Star Wars - Original trilogy', 'The Dark Knight' & 'Friends'. Also, I love BIKES!
 
