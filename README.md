@@ -1,6 +1,6 @@
 # Hi there 👋
 
-⭐️ I'm Abhishek Agrawal, Senior Engineer at [Mutual Mobile](https://mutualmobile.com/).
+⭐️ I'm Abhishek Agrawal, Software Engineer at [Grid Dynamics](https://www.griddynamics.com/).
 
 🤓 I have a great interest in improving and acquiring new skills.
 
