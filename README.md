@@ -4,7 +4,7 @@
 
 🤓 I have a great interest in improving and acquiring new skills.
 
-💬 Ask me about ![Next.js](https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=Next.js&logoColor=000) ![React](http://img.shields.io/badge/React-282C34?style=flat-square&logo=react&logoColor=60DAFA) ![Angular](http://img.shields.io/badge/Angular-105BB5?style=flat-square&logo=angular&logoColor=D7022F) ![Vue](http://img.shields.io/badge/Vue-33465B?style=flat-square&logo=vue.js&logoColor=3FB27F)
+💬 Ask me about ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Next.js&logoColor=fff) ![React](http://img.shields.io/badge/React-282C34?style=flat-square&logo=react&logoColor=60DAFA) ![Angular](http://img.shields.io/badge/Angular-105BB5?style=flat-square&logo=angular&logoColor=D7022F) ![Vue](http://img.shields.io/badge/Vue-33465B?style=flat-square&logo=vue.js&logoColor=3FB27F)
 
 ⚡ I Love ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
@@ -21,6 +21,10 @@ While I enjoy all aspects of my job, I like to spend time with my friends and fa
 ## Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiagrawal9&layout=compact&theme=tokyonight)](https://github.com/abhiagrawal9)
+
+## My Github Gists
+
+[![Gists](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/abhiagrawal9)
 
 ## Socials
 
