@@ -24,7 +24,7 @@ While I enjoy all aspects of my job, I like to spend time with my friends and fa
 
 ## My Github Gists
 
-[![Gists](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/abhiagrawal9)
+[![Gists](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=black)](https://gist.github.com/abhiagrawal9)
 
 ## Socials
 
