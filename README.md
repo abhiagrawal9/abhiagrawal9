@@ -1,6 +1,6 @@
 # Hi there 👋
 
-⭐️ I'm Abhishek Agrawal, Senior Software Engineer at [Grid Dynamics](https://www.griddynamics.com/).
+⭐️ I'm Abhishek Agrawal, Software Engineer III at [JPMorganChase](https://www.jpmorganchase.com).
 
 🤓 I have a great interest in improving and acquiring new skills.
 
